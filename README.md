@@ -17,3 +17,17 @@ Currently, two official plugins are available:
 - As soon as you add/remove an item from the list, the product should be added in both header
 and cart component
  -Add proper comments throughout the code
+
+
+
+
+  -process
+  - npm i
+  - npm run dev
+    
+ **Clone the repository**
+
+   First, clone the repository to your local machine. Open your terminal and run:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
